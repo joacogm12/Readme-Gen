@@ -1,5 +1,5 @@
 
-# lorem ipsum
+# asd
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
@@ -12,24 +12,23 @@
 - [License](#License)
 
 ## Project Description
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam ipsam sunt officia facilis cumque atque consequuntur, harum veritatis, unde quod cupiditate accusantium, fugit obcaecati eligendi accusamus placeat voluptatum esse consectetur!Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam ipsam sunt officia facilis cumque atque consequuntur, harum veritatis, unde quod cupiditate accusantium, fugit obcaecati eligendi accusamus placeat voluptatum esse consectetur!
+asdad
 
 ## Installation
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam ipsam sunt officia facilis cumque atque consequuntur, harum veritatis, unde quod cupiditate accusantium, fugit obcaecati eligendi accusamus placeat voluptatum esse consectetur!Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam ipsam sunt officia facilis cumque atque consequuntur, harum veritatis, unde quod cupiditate accusantium, fugit obcaecati eligendi accusamus placeat voluptatum esse consectetur!
+asd
 
 ## Usage Infromation
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam ipsam sunt officia facilis cumque atque consequuntur, harum veritatis, unde quod cupiditate accusantium, fugit obcaecati eligendi accusamus placeat voluptatum esse consectetur!Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam ipsam sunt officia facilis cumque atque consequuntur, harum veritatis, unde quod cupiditate accusantium, fugit obcaecati eligendi accusamus placeat voluptatum esse consectetur!
+asd
 
 ## Contributing
-- javier
--  cecilia
--  coco
+
+- asdasd
 
 ## Question
 
-email: mail@gmail.com
+email: asd
 
-github: username
+github: sad
 
 
 

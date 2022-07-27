@@ -25,7 +25,7 @@ inquirer.prompt([
     {
         type: 'input',
         name: 'usage',
-        message: 'Project usage:',
+        message: 'usage information:',
     },
     {
         type: 'input',
@@ -35,12 +35,12 @@ inquirer.prompt([
     {
         type: 'input',
         name: 'email',
-        message: 'For question(email):',
+        message: 'email:',
     },
     {
         type: 'input',
         name: 'github',
-        message: 'For question(github):',
+        message: 'Github username:',
     },
     {
         type: 'list',
