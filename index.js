@@ -1,5 +1,6 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
+const ReadmeGen = require('./lib/ReadmeGen');
 
 const questions = [
     {
@@ -51,8 +52,14 @@ const questions = [
 async function runQuery() {
     return inquirer.prompt(questions)
         .then((answers) => {
-            console.log(answers);
-            return answers
+            const mark = ReadmeGen.generateReadMe(answers);
+            fs.writeFile('README.md', mark, function (err) {
+                if (err) {
+                    console.log('could not save file', err);
+                } else {
+                    console.log('Succes: new README.md file generated inside the current folder');
+                }
+            })
         })
         .catch((error) => {
             console.log(error)
