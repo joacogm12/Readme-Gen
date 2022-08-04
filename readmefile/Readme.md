@@ -1,5 +1,5 @@
 
-# lorem ipsum
+# Readme example
 
 [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 
@@ -12,24 +12,24 @@
 - [License](#License)
 
 ## Project Description
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum consectetur illo, impedit aut commodi quaerat iste eveniet accusamus delectus nisi suscipit culpa iure repudiandae distinctio optio neque accusantium quidem laudantium!
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, repellat nostrum nihil esse, asperiores porro error voluptatum a consequuntur cum facere, iure ex inventore distinctio! Vitae beatae voluptates totam hic?
 
 ## Installation
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum consectetur illo, impedit aut commodi quaerat iste eveniet accusamus delectus nisi suscipit culpa iure repudiandae distinctio optio neque accusantium quidem laudantium!
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, repellat nostrum nihil esse, asperiores porro error voluptatum a consequuntur cum facere, iure ex inventore distinctio! Vitae beatae voluptates totam hic?
 
 ## Usage Infromation
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum consectetur illo, impedit aut commodi quaerat iste eveniet accusamus delectus nisi suscipit culpa iure repudiandae distinctio optio neque accusantium quidem laudantium!
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, repellat nostrum nihil esse, asperiores porro error voluptatum a consequuntur cum facere, iure ex inventore distinctio! Vitae beatae voluptates totam hic?
 
 ## Contributing
-- javier
--  joaquin
--  cayetana
+- [joaquin](https://github.com/joaquin)
+- [cayetana](https://github.com/cayetana)
+- [claudia](https://github.com/claudia)
 
 ## Question
 
-email: mail@fakemail.com
+email: fake@fakemail.com
 
-github: username
+github: joacogm12
 
 
 
