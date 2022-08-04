@@ -1,7 +1,7 @@
 
 # Readme-Geneartor
 
-
+[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 
 ## Table of Content
 - [Project Content](#Description)
@@ -35,3 +35,5 @@ github: username
 
 ![image1](img/foto_2.png)
     
+## License
+Licensed under the [ISC](https://chooseaLicense.com/licenses/isc/) license

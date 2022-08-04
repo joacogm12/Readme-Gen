@@ -1,7 +1,7 @@
 
-# asd
+# lorem ipsum
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 
 ## Table of Content
 - [Project Content](#Description)
@@ -12,27 +12,28 @@
 - [License](#License)
 
 ## Project Description
-asdad
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum consectetur illo, impedit aut commodi quaerat iste eveniet accusamus delectus nisi suscipit culpa iure repudiandae distinctio optio neque accusantium quidem laudantium!
 
 ## Installation
-asd
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum consectetur illo, impedit aut commodi quaerat iste eveniet accusamus delectus nisi suscipit culpa iure repudiandae distinctio optio neque accusantium quidem laudantium!
 
 ## Usage Infromation
-asd
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum consectetur illo, impedit aut commodi quaerat iste eveniet accusamus delectus nisi suscipit culpa iure repudiandae distinctio optio neque accusantium quidem laudantium!
 
 ## Contributing
-
-- asdasd
+- javier
+-  joaquin
+-  cayetana
 
 ## Question
 
-email: asd
+email: mail@fakemail.com
 
-github: sad
+github: username
 
 
 
 ## License
-Licensed under the [MIT](https://chooseaLicense.com/licenses/mit/) license
+Licensed under the [ISC](https://chooseaLicense.com/licenses/isc/) license
 
     
